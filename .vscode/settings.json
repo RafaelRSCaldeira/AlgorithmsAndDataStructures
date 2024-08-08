@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\weske\\Downloads\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\weske\\Downloads\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\lib\\junit-4.13.2.jar"
+    ]
+}

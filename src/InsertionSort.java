@@ -1,4 +1,4 @@
-public class InsertionsSort implements Sort{
+public class InsertionSort implements Sort{
 
     public int[] sort(int[] arr) {
         int size = arr.length;

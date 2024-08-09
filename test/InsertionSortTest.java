@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 
 public class InsertionSortTest {
-    Sort sorting = new InsertionsSort();
+    Sort sorting = new InsertionSort();
     @Test
     public void sortTest() {
         int[] arr = {10, 7, 1, 8, 5, 0};
